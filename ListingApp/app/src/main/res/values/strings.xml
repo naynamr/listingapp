@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListingApp</string>
+    <string name="header">Romantic Comedy</string>
+    <string name="search_movies">Search Movies</string>
+</resources>
